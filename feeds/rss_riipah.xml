@@ -11,7 +11,7 @@
     <pubDate>{{ site.time | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
     <lastBuildDate>{{ site.time | date: "%a, %d %b %Y %H:%M:%S %z" }}</lastBuildDate>
 
-    {% for post in site.posts %}
+    {% for post in site.categories.EPiServer %}
     	{% if post.author == "riipah" %}
         <item>
           <title>{{ post.title }}</title>
