@@ -1,5 +1,8 @@
 # /dev/solita staging
 
+Archival note: This repo has been unused for a long time... blogs are tested locally in docker.
+
+
 This is the staging environment for /dev/solita. Try out your changes here before creating a pull request to the production repository. Changes pushed to gh-pages branch will automatically appear in http://dev-staging.solita.fi
 
 Instructions for setting up the blog locally in the production repo: https://github.com/solita/solita.github.com
